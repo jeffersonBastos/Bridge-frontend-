@@ -3,7 +3,7 @@ Desafio bridge estágio
 
 Este projeto é baseado em tecnologia javaScript 
 
-###tech
+### tech
 
 Utiliza algumas bibliotecas:
 
@@ -21,7 +21,7 @@ Express-
 É um framework para Node. js inspirado no Sinatra. Ele é minimalista, 
 flexível e contém um robusto conjunto de recursos para desenvolver aplicações web.
 
-###execução
+### execução
 
 Para iniciar o projeto localmente é necessário já ter instalado o node.
 
