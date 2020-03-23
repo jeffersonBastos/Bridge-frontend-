@@ -86,8 +86,8 @@ function App() {
       <section id= "historico">Historico de calculos:
           <div className="content2">
             <ul>
-               <li>{ 
-               localStorage.getItem('valoresPesquisados').replace(/([^\d])+/gim, '-> ')
+               <li>{ localStorage.getItem('valoresPesquisados')?
+               localStorage.getItem('valoresPesquisados').replace(/([^\d])+/gim, '-> ') :''
                }</li>
             </ul>
           </div>
